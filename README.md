@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**lordseipher/lordseipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ricardo Mateus da Costa, I'm from Brazil 🌎. 
+I have a degree in Computer Science, I'm always studying and going deeper into full stacks and mobile
+development.
 
-Here are some ideas to get you started:
+I am passionate about problem solving and learning. Always open to new challenges and ready for change.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### "Seeking knowledge and ensuring learning"
+
+
+reach me 👇
+
+https://www.linkedin.com/in/ricardo-mateus-da-costa-4a0836213/
