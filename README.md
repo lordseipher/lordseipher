@@ -1,3 +1,5 @@
+![capa github](<img src="https://wallpapercave.com/wp/wp3082268.jpg" />)
+
 # Hello 👋
 
 My name is Ricardo Mateus da Costa, I'm from Brazil 🌎. 
@@ -15,6 +17,8 @@ I am passionate about problem solving and learning. Always open to new challenge
 **Reach me out** 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-mateus-da-costa-4a0836213/)](https://www.linkedin.com/in/ricardo-mateus-da-costa-4a0836213/) 
+
+<a href="ricardo_matheus_2005@hotmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:ricardo_matheus_2005@hotmail.com) 
 
 ####  🔧Languages and tools
 ---
