@@ -15,7 +15,7 @@ I am passionate about problem solving and learning. Always open to new challenge
 **Reach me out** 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-mateus-da-costa-4a0836213/)](https://www.linkedin.com/in/ricardo-mateus-da-costa-4a0836213/) 
-<a href="ricardo_matheus_2005@hotmail.com"><img src="https://camo.githubusercontent.com/7c4791665d55a39b94e86943984e4fc376cf4e1921b3915eeae154b7516879ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465"></a></p>
+<a href="mailto:ricardo_matheus_2005@hotmail.com"><img src="https://camo.githubusercontent.com/7c4791665d55a39b94e86943984e4fc376cf4e1921b3915eeae154b7516879ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465"></a></p>
 
 ####  🔧Languages and tools
 ---
